@@ -5,4 +5,4 @@ This app has been deployed using following strategies:
 a) Flask and Flasgger,
 b) Streamlit.
 This repository contains all the files required for smooth functioning of this app.
-The model.pkl file was around 29 MB and it exceeded the file size limit in github, so I have uploaded its .rar file which can be decompressed.
+The model.pkl file was around 29 MB and it exceeded the file size limit in github, so I uploaded using the clome repository.

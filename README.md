@@ -1,6 +1,6 @@
 # Project_Sentiment_analysis
-This is my final year project of my graduation in B Tech IT from University Institute of Technology, Himachal Pradesh University, Shimla, Himachal Pradesh. 
-This is a ML app on stock sentiment analysis using the news headlines. 
+This is the final year project of my graduation in B Tech IT from University Institute of Technology, Himachal Pradesh University, Shimla, Himachal Pradesh. 
+This is an ML app on stock sentiment analysis using the news headlines. 
 This app has been deployed using following strategies: 
 a) Flask and Flasgger,
 b) Streamlit.
